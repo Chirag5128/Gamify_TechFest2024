@@ -1,5 +1,7 @@
 
 # TechFest-2024: Gamify
+
+## Disclaimer: Pacman game code has been scrapped for use in competition due to bugs with registering inputs. Please use https://freepacman.org/ to test your gesture controls!
 This repository contains the sample python code for using OpenCV to create gesture based controls along with Pacman game code.
 
 
